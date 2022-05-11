@@ -9,7 +9,8 @@ A GUI program that plots arbitrary user-entered function.
 - Create a Python environment and install the Jupyter
 module.
 - Run .ipynb file.
-
+## 💻Built Using
+- Python
 ## 📷Screenshots
 ### Valid Examples
 ![](Images/Capture1.PNG)
