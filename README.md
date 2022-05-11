@@ -1,8 +1,8 @@
 # Function-Plotter
 ![](Images/function.png)
-## 📙 About
+## 📙About
 A GUI program that plots arbitrary user-entered function.
-## Getting Started
+## 🏁Getting Started
 - You only need IDE to run this code like Vscode.
 - Install Visual Studio Code.
 - Install the necessary Jupyter notebook extensions.
